@@ -1,0 +1,4 @@
+[submodule "acsone/contract"]
+	path = acsone/contract
+	url = git@github.com:acsone/contract.git
+	branch = 12.0-tieredpricing-len
