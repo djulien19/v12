@@ -7,3 +7,8 @@
 	path = shopinvader/odoo-shopinvader
 	url = git@github.com:shopinvader/odoo-shopinvader.git
 	branch = 12.0
+
+[submodule "shopinvader/odoo-pim"]
+	path = shopinvader/odoo-pim
+	url = git@github.com:shopinvader/odoo-pim.git
+	branch = 12.0
