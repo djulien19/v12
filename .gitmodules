@@ -52,3 +52,8 @@
 	path = shopinvader/odoo-misc
 	url = git@github.com:shopinvader/odoo-misc.git
 	branch = 12.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 12.0
