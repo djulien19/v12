@@ -12,3 +12,8 @@
 	path = shopinvader/odoo-pim
 	url = git@github.com:shopinvader/odoo-pim.git
 	branch = 12.0
+
+[submodule "OCA/rest-framework"]
+	path = OCA/rest-framework
+	url = git@github.com:OCA/rest-framework.git
+	branch = 12.0
