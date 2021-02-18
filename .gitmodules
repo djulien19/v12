@@ -37,3 +37,8 @@
 	path = OCA/server-auth
 	url = git@github.com:OCA/server-auth.git
 	branch = 12.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 12.0
