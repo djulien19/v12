@@ -47,3 +47,8 @@
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 12.0
+
+[submodule "shopinvader/odoo-misc"]
+	path = shopinvader/odoo-misc
+	url = git@github.com:shopinvader/odoo-misc.git
+	branch = 12.0
